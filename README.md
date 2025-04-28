@@ -75,11 +75,11 @@ http://localhost:5000
 
 **Gestión de usuarios:**
 
-![Gestión de usuarios](https://virtlab-backend-isa.onrender.com/public/nasa.png)
+![Gestión de usuarios](https://github.com/Isabensa/Virtlab-Backend-Isa/blob/main/public/mongo.png?raw=true)
 
 **Conexión MongoDB:**
 
-![MongoDB Atlas](https://virtlab-backend-isa.onrender.com/public/mongo.png)
+![MongoDB Atlas](https://github.com/Isabensa/Virtlab-Backend-Isa/blob/main/public/nasa.png?raw=true)
 
 ---
 
